@@ -21,6 +21,7 @@ function binarySearch(arr, target) {
   return false;
 }
 
+// Forma alternativa de escrever uma lista de 1 aaté 10
 const sortedArray = Array.from({ length: 10 }, (_, index) => index + 1);
 const targetValue = 3;
 
